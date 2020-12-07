@@ -1,6 +1,6 @@
-# Bullet Python Pyramid Test App (Public)
+# Python Pyramid Test App (Public)
 
-This is a **public** python pyramid test app used for bullet testing. 
+This is a **public** python pyramid test app used for testing.
 
 ## Configurations needed for your testing
 ```
